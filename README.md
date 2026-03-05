@@ -1,2 +1,2 @@
-# LONGTERM-INTERNSHIP
+# Longtern internship
 HOUSE PRICE PREDICTION
